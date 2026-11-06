@@ -1,4 +1,10 @@
-# PlayGround
+# Velvet Afterhours
+
+A complete, mobile-friendly 3D rhythm game set in a neon rooftop lounge. Read the falling cues and hit **Sway**, **Spin**, **Pose**, or **Charm** as they reach the glowing line. Build the room's energy before the 45-second song ends.
+
+## Play
+
+Open `index.html` in a modern browser or serve this folder over HTTP. Touch the move buttons on phones and tablets, or use **A / S / K / L** (also arrow keys) on a keyboard. Sound is optional and starts muted. The stylized cast is adult, fully clothed, and the game is flirty rather than explicit.
 
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
